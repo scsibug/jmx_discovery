@@ -1,0 +1,1 @@
+Quickie example of an application publishing a JMX MBean (the "server), and a client (the "Inspector") using the Attach API to easily find the server and query for an attribute.
